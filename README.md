@@ -31,6 +31,7 @@ Funcionalidades atuais:
 ## Estrutura do projeto
 
 jogo-da-velha/
+
 │
 ├── index.html
 ├── style.css
