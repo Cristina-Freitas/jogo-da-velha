@@ -1,5 +1,7 @@
 # Jogo da Velha
 
+## Visite em: https://cristina-freitas.github.io/jogo-da-velha/
+
 Projeto simples de **Jogo da Velha desenvolvido com HTML, CSS e JavaScript**, com lógica de turnos entre jogadores, verificação automática de vitória e destaque visual das células vencedoras.
 
 Este projeto foi desenvolvido como exercício de prática em **manipulação do DOM, eventos e lógica de programação em JavaScript**.
